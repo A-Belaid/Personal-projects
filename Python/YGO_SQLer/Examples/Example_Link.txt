@@ -1,0 +1,19 @@
+100101051, OCG
+Gaiasaber, the Video Knight
+EARTH/Machine/Link
+2600-3
+Link Markers: Left, Right, Bottom
+
+2 or more monsters
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+100117041, OCG
+Decode Talker
+DARK/Cybers/Link/Effect
+2300-3
+Link Markers: Top, Bottom-Left, Bottom-Right
+
+2 or more Effect Monsters
+This card gains 500 ATK for each monster in its Linked Zone. During either player's turn, when your opponent activates a card or effect that targets a card(s) you control: You can Tribute 1 of your monsters in this card's Linked Zone; negate the activation, and if you do, destroy that card.
+
+Categories: Change_ATK/DEF + Negate_Effect

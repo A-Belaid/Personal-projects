@@ -1,0 +1,25 @@
+44095762
+Mirror Force
+Trap Card
+
+When an opponent's monster declares an attack: Destroy all Attack Position monsters your opponent controls.
+
+Categories: Destroy
+
+%%%%%%%%%%%%%%%%%%%%%%%
+97077563
+Call of the Haunted
+Continuous Trap Card
+
+Activate this card by targeting 1 monster in your Graveyard; Special Summon that target in Attack Position. When this card leaves the field, destroy that target. When that target is destroyed, destroy this card.
+
+Categories: Special_Summon
+
+%%%%%%%%%%%%%%%%%%%%%%%
+42309337
+Counter Counter
+Counter Trap Card
+
+Negate the activation of a Counter Trap Card, and destroy it.
+
+Categories: Negate_Effect + Destroy

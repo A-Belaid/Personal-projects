@@ -1,0 +1,60 @@
+24094653
+Polymerization
+Spell Card
+
+Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials.
+
+Archetypes: Fusion
+
+Categories: Special_Summon + Fusion-Related
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+8842266
+Poison of the old man
+Quick-Play Spell Card
+
+Activate 1 of these effects;
+? Gain 1200 LP.
+? Inflict 800 damage to your opponent.
+
+Categories: Damage_LP + Recover_LP
+
+strs:
+Gain 1200 LP?
+Inflict 800 damage to your opponent?
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+19578592
+Axe of Fools
+Equip Spell Card
+
+The equipped monster gains 1000 ATK, but its effects are negated. During each of your Standby Phases: Inflict 500 damage to the controller of the equipped monster.
+
+Categories: Change_ATK/DEF + Damage_LP
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+55761792
+Black Luster Ritual
+Ritual Spell Card
+
+This card is used to Ritual Summon "Black Luster Soldier". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more.
+
+Categories: Special_Summon
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+59197169
+Yami
+Field Spell Card
+
+Increases the ATK and DEF of all Fiend and Spellcaster-Type monsters by 200 points. Also decreases the ATK and DEF of all Fairy-Type monsters by 200 points.
+
+Categories: Change_ATK/DEF
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+17626381
+Supply Squad
+Continuous Spell Card
+
+Once per turn, if a monster(s) you control is destroyed by battle or by card effect: Draw 1 card.
+
+Categories: Draw

@@ -1,0 +1,19 @@
+ID[, OT, ALIAS] #OT= TCG | OCG | TCG/OCG | Anime (Default values: OT = TCG/OCG, ALIAS = 0)
+CARD NAME
+ATTRIBUTE/(Level | Rank) X/RACE[/TYPE1/TYPE2/etc.] #Must have Pendulum as one of its types
+Scale Y
+ATK/DEF
+
+CARD DESCRPTION
+
+[Archetypes: (None | [ARCHETYPE1 [SETCODE1], ARCHETYPE2 [SETCODE2], etc])] # If "None", setcode = 0
+
+[CATEGORIES: CATEGORY1 + CATEGORY2 + etc.] #To view all categories, use -c or --cats
+
+[strs:
+STR1
+STR2
+etc.] #Not revelant for Manual Mode
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+#Next card
