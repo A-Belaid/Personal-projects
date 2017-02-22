@@ -14,7 +14,7 @@ def main(argv):
 		View Categories:
 			-c --categories
 		Check if an archetype is defined:
-			-s --set <archetype name or setcode>
+			-v --view <archetype name or setcode>
 	"""
 	
 	help = main.__doc__
@@ -26,7 +26,7 @@ def main(argv):
 	mode = ""
 	
 	try:
-		opts, args = getopt.getopt(argv, "hi:o:cs:", ["help", "input=", "output", "cats", "setname="])
+		opts, args = getopt.getopt(argv, "hi:o:cv:", ["help", "input=", "output", "categories", "view="])
 	except getopt.GetoptError:
 		print("EXCEPTION!")
 		print(help)
@@ -42,7 +42,7 @@ def main(argv):
 			input = arg
 		elif opt in ("-c", "--categories"):
 			mode = "Cats"
-		elif opt in ("-s", "--sets"):
+		elif opt in ("-v", "--view"):
 			mode = "Set"
 			set = arg
 		elif opt in ("-o", "--output"):
