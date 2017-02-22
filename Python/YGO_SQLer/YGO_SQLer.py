@@ -87,6 +87,7 @@ def main(argv):
 						elif "Pendulum" in lines[2]:
 							lv = util.functions.read_scale(lines[3], lv)
 							atk, defs = util.functions.read_atk_def(lines[4])
+							lore_start = 5
 						else:
 							atk, defs = util.functions.read_atk_def(lines[3])
 					#Read lore text, categories(if any), and strs(if any)
