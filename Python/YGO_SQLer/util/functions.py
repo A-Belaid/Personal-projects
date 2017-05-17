@@ -128,7 +128,7 @@ def read_race(race):
 				"DIVINE-BEAST": 2097152,
 				"CREATOR GOD": 4194304,
 				"WYRM": 8388608,
-				"CYVERSE": 16777216}
+				"CYBERSE": 16777216}
 	try:
 		return race_dict[race.upper()]
 	except KeyError:
